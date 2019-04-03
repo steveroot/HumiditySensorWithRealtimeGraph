@@ -20,7 +20,9 @@ import time
 # If you're looking to use this you may be better to look at the manufacturers
 # guides here rather than rely on untangling my spagetti code.
 # https://learn.adafruit.com/adafruit-sht31-d-temperature-and-humidity-sensor-breakout
-# besides, that will also tell you which pins you need to wire to.
+# besides, that will also tell you which pins you need to wire to.  This github page
+# was also useful:
+# https://github.com/adafruit/Adafruit_SHT31
 #
 # So once I had correctly soldered the Sensor and connected it to the Raspberry
 # Pi I modified code from this page to get a realtime graph working
